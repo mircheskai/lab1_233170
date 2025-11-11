@@ -1,16 +1,6 @@
 # lab1_233170
 
-MIS lab1
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="399" height="890" alt="mis_233170_1" src="https://github.com/user-attachments/assets/ee30b680-6b15-4a54-912e-ba0a92f9529f" /> <br>
+<img width="396" height="888" alt="mis_233170_2" src="https://github.com/user-attachments/assets/1faa2bd8-dd76-4a83-876e-9cbcfe6c74cf" /> <br>
+<img width="401" height="890" alt="mis_233170_3" src="https://github.com/user-attachments/assets/2a56c826-02c0-4bb0-9547-c32f54a8f761" />
